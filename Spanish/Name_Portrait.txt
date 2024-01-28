@@ -1,0 +1,41 @@
+﻿01 Ozora Tsubasa(Sao Paulo)
+02 Ozora Tsubasa(Japon)
+03 Renato
+04 Morisaki(Nankatsu)
+05 Morisaki(Japon)
+06 Misaki(Nankatsu)
+07 Misaki(Japon)
+08 Ishizaki(Nankatsu)
+09 Ishizaki(Japon)
+10 Nitta(Nankatsu)
+11 Nitta(Japon)
+12 Tachibana(Japon)
+13 Kojiro Hyuga(Japon)
+14 Makoto Soda(Japon)
+15 Jito Hiroshi(Japon)
+16 Hikaru Matsuyama(Japon)
+17 Sawada Takeshi(Japon)
+18 Jun Misugi(Japon)
+19 Wakabayashi (Japan+Hamburgo)
+20 Wakashimazu(Japon)
+21 Meao
+22 Carlos Santana(Flamengo)
+23 Jito Hiroshi(Kunumi)
+24 Tachibana brothers(Akita)
+25 Makoto Soda(Tatsunami)
+26 Jun Misugi(Musashi)
+27 Hikaru Matsuyama(Furano)
+28 Kojiro Hyuga(Toho)
+29 Sawada Takeshi(Toho)
+30 Wakashimazu(Toho)
+31 Ramon Victorino
+32 Kalts(Hamburgo)
+33 Napoleon
+34 Pierre
+35 Pascal
+36 Dias
+37 Schneider
+38 Kalts(Alemania)
+39 Schester
+40 Carlos Santana(Basil)
+41 Coimbra

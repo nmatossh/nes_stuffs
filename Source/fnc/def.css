@@ -1,0 +1,198 @@
+select:hover {
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+    border: 1px solid #2EE148;
+}
+
+div {
+    border-radius: 4px;
+}
+
+.ctab {
+}
+
+div, span, a, p, pre, select, li, ul, textarea, button, input, img, table, td, tr, th {
+    width: fit-content;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    /*  border: 1px solid;
+    border-radius: 4px;*/
+    padding: 1px 1px 1px 1px;
+}
+
+#main {
+    /* position: relative;*/
+}
+/** {
+    font-size: 12px;
+}*/
+.msgboxdiv {
+    display: none;
+    background: #FFF;
+    top: 50%;
+    left: 50%;
+    position: fixed;
+    z-index: 9999999999999;
+}
+
+textarea {
+    width: fit-content;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    border-radius: 4px;
+    padding: 1px;
+    border: 1px solid;
+}
+
+select {
+    background: transparent;
+    padding: 2px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    border: 1px solid #999;
+    border-radius: 3px;
+    /*让按钮变得圆滑一点*/
+    margin: 0;
+    outline: none;
+    /*取消轮廓*/
+    font-size: 1em;
+    /*设置字体大小*/
+    text-align: center;
+    /*字体居中*/
+    cursor: pointer;
+    /*设置鼠标箭头手势*/
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding: 2px 2px 2px 2px;
+    background-color: transparent;
+}
+
+    button:hover {
+        /*鼠标移动时的颜色变化*/
+        color: green;
+        /*font-weight:bold;*/
+    }
+
+.file {
+    position: relative;
+    display: inline-block;
+    background: #D0EEFF;
+    border: 1px solid #99D3F5;
+    border-radius: 4px;
+    padding: 4px 12px;
+    overflow: hidden;
+    color: #1E88C7;
+    text-decoration: none;
+    text-indent: 0;
+    line-height: 20px;
+}
+
+    .file input {
+        position: absolute;
+        font-size: 100px;
+        right: 0;
+        top: 0;
+        opacity: 0;
+    }
+
+    .file:hover {
+        background: #AADFFD;
+        border-color: #78C3F3;
+        color: #004974;
+        text-decoration: none;
+    }
+/*a  upload */
+.a-upload {
+    padding: 4px 10px;
+    height: 20px;
+    line-height: 20px;
+    position: relative;
+    cursor: pointer;
+    color: #888;
+    background: #fafafa;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    overflow: hidden;
+    display: inline-block;
+    *display: inline;
+    *zoom: 1
+}
+
+    .a-upload input {
+        position: absolute;
+        font-size: 100px;
+        right: 0;
+        top: 0;
+        opacity: 0;
+        filter: alpha(opacity=0);
+        cursor: pointer
+    }
+
+    .a-upload:hover {
+        color: #444;
+        background: #eee;
+        border-color: #ccc;
+        text-decoration: none
+    }
+
+.colorpanle {
+    border: 1px solid black;
+}
+
+ul, li {
+    margin: 0;
+    padding: 0;
+    list-style: none
+}
+
+#menu li {
+    text-align: center;
+    float: left;
+    padding: 1px;
+    margin-right: 2px;
+    cursor: pointer;
+    border: 1px solid #999;
+    border-radius: 3px;
+}
+
+    #menu li.tabFocus {
+        font-weight: bold;
+        color: #090;
+    }
+
+#content {
+    clear: left;
+    position: relative;
+    top: -1px
+}
+
+    #content li {
+        display: none
+    }
+
+        #content li.c {
+            display: block
+        }
+
+.tab_content {
+    border: 1px solid #999;
+    background: #FFF;
+    overflow: hidden;
+}
+
+
+table, td {
+    white-space: nowrap;
+    width: auto;
+    min-width: 0px !important;
+}
+
+#canvasmod {
+    transition: transform 0.5s;
+}
+
+    #canvasmod:hover {
+        transform: scale(2)
+    }

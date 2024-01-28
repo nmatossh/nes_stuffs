@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="UTF-8" lang="UTF-8">
+<head>
+	<meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta http-equiv="pragma" content="no-cache"/>
+	<meta http-equiv="content-type" content="no-cache, must-revalidate"/>
+	<meta http-equiv="expires" content="Wed, 26 Feb 1997 08:21:57 GMT"/>
+	<meta name="keywords" content="天使之翼2,天使之翼2修改器,Hack CT2,Captain Tsubasa 2,Captain Tsubasa 2 Hack tool,Hack,改版Rom,daymoe,キャプテン翼2改造" />
+<meta name="description" content="天使之翼2超级修改器在线版|Captain Tsubasa 2 Super Hack Tool online bulid" />
+	<title>天使之翼2超级修改器在线版|Captain Tsubasa 2 Super Hack Tool online bulid</title>
+	<!--<style>html {filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1); -webkit-filter: grayscale(100%); }</style>-->
+</head>
+<body>
+	<div id="main">
+		<div>
+			<p style="font-size: 1.1em"> by daymoe 2020-04-04</p>
+			<a href="http://daymoe.com/rom/" rel="nofollow noopener noreferrer">キャプテン翼II Super Striker RomMarket</a>&nbsp;<a href="https://daymoe.com/rom/message.html" rel="nofollow noopener noreferrer">评论(Post a message)</a><br>
+			<a href="javascript:;" class="a-upload">打开文件<input type="file" name="" id="Nesfileupload" accept=".nes"></a>&nbsp;<span id="isfileload">Page Loading...</span><br>
+			<button onClick="LoadOldData()">加载缓存</button>&nbsp;<button id="_set_data" onClick="SetOldData()" style="display: none;">设置缓存</button><div id="_run_game_div" style="display: none;"><button id="_run_data" onClick="PlayNes()">在线运行</button>&nbsp;<select id="emulist"><option>fceumm</option><option>nestopia</option></select></div>
+			<div><span id="checknes">type:???</span>&nbsp;<span id="ramtype">Ram Plus Type:???</span></div>
+			<button id="btnsave" onClick="savefile()" style="pointer-events: none">保存文件</button>
+			<br>
+		</div>
+		<p id="result" style="width: 100%; word-break: break-all; word-wrap: break-word;"></p>
+		<div id="HackDiv" style="pointer-events: none;">
+			<ul id="menu">
+				<li class="ctab">队伍</li>
+				<li class="ctab">球员</li>
+				<li class="ctab">指令</li>
+				<li class="ctab">AI&nbsp;</li>
+				<li class="ctab">音乐</li>
+				<li class="ctab">HEX</li>
+				<li class="ctab">CHR</li>
+				<li class="tabFocus ctab">关于</li>
+			</ul>
+			<ul id="content">
+				<li class="ctab">
+					<div id="TeamEdit">
+						<div>
+							<button id="Teamedit_x_0" af="#Teamedit_a_0" onclick="showTeamEditbuttondiv(0)">队伍编辑</button>
+							<button id="Teamedit_x_1" af="#Teamedit_a_1" onclick="showTeamEditbuttondiv(1)">球队袜子配色</button>
+						</div>
+						<div class="tab_content">
+							<div id="Teamedit_a_0">
+								<div id="Team_list"> </div>
+								<div id="Team_player_list"> </div>
+							</div>
+							<div id="Teamedit_a_1" style="display: none;">球队袜子</div>
+						</div>
+					</div>
+				</li>
+				<li class="ctab">
+					<div id="PlayerEdit">
+						<div>
+							<button id="playeredit_x_0" af="#playeredit_a_0" onclick="showPlayerEditbuttondiv(0)">造型\颜色</button>
+							<button id="playeredit_x_1" af="#playeredit_a_1" onclick="showPlayerEditbuttondiv(1)">球员能力</button>
+							<button id="playeredit_x_2" af="#playeredit_a_2" onclick="showPlayerEditbuttondiv(2)">肖像颜色</button>
+							<button id="playeredit_x_3" af="#playeredit_a_3" onclick="showPlayerEditbuttondiv(3)">肖像挂接</button>
+						</div>
+						<div class="tab_content">
+							<div id="playeredit_a_0">造型及颜色</div>
+							<div id="playeredit_a_1" style="display: none;">球员能力</div>
+							<div id="playeredit_a_2" style="display: none;">对决肖像颜色修改</div>
+							<div id="playeredit_a_3" style="display: none;">对决肖像挂接</div>
+						</div>
+					</div>
+				</li>
+				<li class="ctab">
+					<div id="InstructTab"></div>
+				</li>
+				<li class="ctab">
+					<div>
+						<div id="AI_Players_Name">AI_Players</div>
+						<div id="AIDataTypeDiv">
+							<div>
+								<button id="aitab_0" af="#aitab0" onclick="showAIbuttondiv(0)">能力值索引</button>
+								<button id="aitab_1" af="#aitab1" onclick="showAIbuttondiv(1)">步长类型</button>
+								<button id="aitab_2" af="#aitab2" onclick="showAIbuttondiv(2)">进攻跑动</button>
+								<button id="aitab_3" af="#aitab3" onclick="showAIbuttondiv(3)">防守跑动</button>
+								<button id="aitab_4" af="#aitab4" onclick="showAIbuttondiv(4)">NPC进攻</button>
+								<button id="aitab_5" af="#aitab5" onclick="showAIbuttondiv(5)">NPC防守</button>
+								<button id="aitab_6" af="#aitab6" onclick="showAIbuttondiv(6)">GK_防守</button>
+								<button id="aitab_7" af="#aitab7" onclick="showAIbuttondiv(7)">传球意向</button>
+							</div>
+							<div class="tab_content">
+								<div id="aitab0"></div>
+								<div id="aitab1"></div>
+								<div id="aitab2"></div>
+								<div id="aitab3"></div>
+								<div id="aitab4"></div>
+								<div id="aitab5"></div>
+								<div id="aitab6"></div>
+								<div id="aitab7"></div>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="ctab">
+					<div id="MusicEditTab"></div>
+				</li>
+				<li class="ctab">
+					<div id="Edit16Tab"></div>
+				</li>
+				<li class="ctab">
+					<div id="CHRTab"></div>
+				</li>
+				<li class="c ctab" style="pointer-events: auto;">
+					<span>手机推荐使用Chrome或Microsoft Edge<br>手机切换横屏使用效果更加.<br>页面加载可能比较慢...<br>可用功能:队伍\造型\能力\指令\音乐\AI\CHR\16进制编辑</span><br>
+<textarea style="width: 100%; resize: none; height: 180px;" readonly="readonly">
+2023.05.19 Chr编辑修正并补充些小功能
+2023.05.18 Chr部分重写并添加简单编辑功能
+2023.04.24 补充 袜子颜色修改
+2023.04.23 补充 球星添加
+2023.04.22 补充 阵型战术 修改
+2023.04.21 添加 对决肖像挂接\对决肖像颜色修改
+2023.04.03 更新网页模拟器金手指部分自定义(类似电脑版的EC,方便测试)
+2023.03.28 指令部分添加必杀技能查看,支持原版/万能及早期空地址补丁的改版.
+2023.03.27 添加指令(技能)数据查看\修改,修正队伍修改[常规空地址]数据显示.
+2023.03.24 AI查看器完整版(网页版只能查看,数据有标明地址.)
+2023.03.16 添加Chr查看器
+2023.03.15 调整球员造型+颜色修改时的即时预览相关代码
+2022.04.27 优化16进制编辑数据加载(过大的文件可能加载很慢,处理速度基于客户端手机)
+2020.08.18 修正中文版队伍音乐地址错误
+2020.04.04 音乐修改支持试听(无声BUG除外)
+2020.04.02 添加缓存,无需频繁打开文件(可能无效)
+2020.04.01 修正球员造型修改错误的BUG</textarea>
+<span>经过几次更新,功能已与PC版相差无几.<br>源码下载:<a href="src.zip">源码(src)</a>(可本地打开运行,不含模拟器)<br>注:手机兼容性跟浏览器有关,有特殊需求请使用PC版的Hack CT2.</span>
+				</li>
+			</ul>
+		</div>
+		<div id='msgboxdiv' class='msgboxdiv'></div>
+	</div>
+</body>
+</html>
+<script>
+    var cssjsvernob = "?230519";
+    function externallinks() {
+        if (!document.getElementsByTagName) return;
+        var anchors = document.getElementsByTagName("a");
+        for (var i = 0; i < anchors.length; i++) {
+            var anchor = anchors[i];
+            if (anchor.getAttribute("href") &&
+                anchor.getAttribute("rel") == "external")
+                anchor.target = "_blank";
+        }
+    }
+    window.onload = externallinks;
+</script>
+<script src="AllPageLoad.js?230519"></script>
+<script src="Ct2.js?230519"></script>

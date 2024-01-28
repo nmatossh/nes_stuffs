@@ -1,0 +1,37 @@
+﻿9D Renato
+9E Morisaki
+9F Wakashimazu
+A0 Wakabayashi
+A1 GK. Fluminense
+A2 GK. Corinthians
+A3 Meao
+A4 GK. Palmeira
+A5 GK. Santos
+A6 GK. Flamengo
+A7 GK. Kunumi
+A8 GK. Akita
+A9 Nakanishi
+AA GK. Musashi
+AB GK. Furano
+AC Wakashimazu(Toho)
+AD GK. Roma
+AE GK. Uruguay
+AF Wakabayashi
+B0 Wakashimazu(Japon)
+B1 Siria
+B2 China
+B3 GK. Iran
+B4 GK. Corea Del Norte
+B5 GK. Arabia
+B6 GK. Corea Del Sur
+B7 GK. Vasco Da Gama
+B8 GK. Polonia
+B9 GK. Inglaterra
+BA GK. Rusia
+BB GK. Francia
+BC GK: Mexico
+BD Gino Fernandez
+BE GK. Holanda
+BF GK. Argentina
+C0 Deuter Muller
+C1 Elzo Gertize

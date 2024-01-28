@@ -1,0 +1,14 @@
+[Game]
+Name=
+
+[Author]
+Name=
+
+[Function]
+Description=
+
+[Code]
+{在这里填偏移地址}={在这里填地址值};
+
+
+[END]

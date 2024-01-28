@@ -1,0 +1,11 @@
+﻿4:3:3 
+4:4:2
+3:5:2
+Brasilera
+Normal
+Presion
+Contra Ataque
+Sao paulo
+Nankatsu
+Japon
+NPC(Enemigo)

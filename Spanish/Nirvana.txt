@@ -1,0 +1,57 @@
+﻿01 Drive Shot
+02 Drive chilena
+03 Hayabusa Shot
+04 Hayabusa Volley Shot
+05 Kamishori Shot
+06 Huracan en el Cielo
+07 Twin Shot
+08 Huracan en el Cielo X2
+09 eagle Shot
+10 Tiger Shot
+11 Neo Tiger Shot
+12 Chilena
+13 Hyper Chilena
+14 Jumpin Volley Shot
+15 Drive Tiger Shot
+16 Ciclon
+17 Sano Combo
+18 Banana Shot
+19 Booster Shot
+20 Mirage Shot
+21 Mach Shot
+22 Side Wind Shot
+23 Slider Shot
+24 Cannon Shot
+25 Fire Shot
+26 Dynamite Head
+27 Cannon Head
+28 Rocket Head
+29 Red Dragons
+30 Back Shot
+31 Slider Cannon
+32 Double Eel
+33 Drive pass
+34 Kamisori Pass
+35 T-Spin Pass
+36 Sombrero
+37 Dribling Fuerte
+38 Dribling(Nei)
+39 Dribling(Santana)
+40 Dribling(Islas)
+41 Dribling(Kaltz)
+42 Combi. Dorada
+43 Combi. Toho
+44 Combi. Tachibana
+45 Combi.(ARG+FRA)
+46 Face Block
+47 Huracan en el Cielo Block
+48 Power Block
+49 Huracan en el Cielo Tackle
+50 Kamisori TacKle
+51 Power Tackle
+52 Tiger Tackle
+53 Huracan en el Cielo corta pase
+54 Rolling save
+55 Bunshin save
+56 Dark Ilussion catch
+57 Sankakutobi

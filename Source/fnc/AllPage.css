@@ -1,0 +1,11 @@
+@charset "utf-8";*{margin:0;padding:0;font-style:normal;font-family:宋体;}
+body{overflow-y:scroll;background-repeat:no-repeat;background-attachment:fixed;background-position:100% 100%;}
+a{color:rgb(0, 133, 207);font-size:12px;line-height:1.5em;border:0px none;text-decoration:none;}
+a:hover{text-decoration:underline;}
+p{padding-top:10px;margin-bottom:12px;}
+pre,th,td,p,span{color:rgb(102, 102, 102);font-size:12px;line-height:1.7em;}
+#main{width:98%;margin:0 auto;}
+ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,body,html,p,blockquote,fieldset,input{margin:0;padding:0;}
+h1{font-family:"Lucida Grande","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif;color:#000;font-size:60px;letter-spacing:-1px;}
+h1 small{font-size:24px;display:block;color:#636363;}
+.break{clear:both;}

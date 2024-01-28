@@ -1,0 +1,31 @@
+﻿01 Sao Paulo
+02 Nankatsu
+03 Japon
+04 Corinthians
+05 Gremio
+06 Palmeiras
+07 Santos
+08 Flamengo
+09 Kunimi
+10 Akita
+11 Tatsunami
+12 Musashi (2º Tiempo)
+13 Furano
+14 Toho 
+15 Roma
+16 Uruguay
+17 Hamburgo
+18 Japon
+19 China
+20 Corea
+21 Polonia
+22 Inglaterra
+23 Rusia
+24 Francia
+25 Mexico
+26 Italia
+27 Holanda
+28 Argentina
+29 Alemania
+30 Brasil
+31 Brasil (2º Tiempo)

@@ -1,0 +1,82 @@
+#infoD select:hover {
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+    border: 1px solid #2EE148;
+}
+
+#infoD select {
+    background: transparent;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+#infoD button {
+    border: 1px solid #999;
+    border-radius: 3px;
+    /*让按钮变得圆滑一点*/
+    margin: 0;
+    outline: none;
+    /*取消轮廓*/
+    font-size: 1em;
+    /*设置字体大小*/
+    text-align: center;
+    /*字体居中*/
+    cursor: pointer;
+    /*设置鼠标箭头手势*/
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding: 2px 2px 2px 2px;
+    background-color: transparent;
+}
+
+#infoD button:hover {
+        /*鼠标移动时的颜色变化*/
+        color: green;
+        /*font-weight:bold;*/
+    }
+
+@charset "utf-8";
+
+#infoD  {
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+    font-family: 宋体;
+    max-height: 999999px
+}
+
+
+
+
+#infoD  {
+    max-width: 100%;
+}
+
+#infoD {
+    width: 98%;
+    margin: 0 auto;
+}
+
+#infoD span, #infoD pre {
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+
+
+
+#infoD a {
+    color: #0085cf;
+    border: 0 none;
+    text-decoration: none;
+}
+
+#infoD a:hover {
+    text-decoration: underline;
+}
+
+    #infoD p, #infoD pre, #infoD span, #infoD td, #infoD th {
+        color: #666;
+    }
+
+#infoD  {
+        font-size: 1rem !important;
+    }

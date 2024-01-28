@@ -1,0 +1,34 @@
+﻿00 No portrait = cg
+01 Ozora Tsubasa(Especial)
+02 Misaki Taro(Nankatsu)
+03 Misaki Taro(Japon)
+04 Kojiro Hyuga(Japon)
+05 Kojiro Hyuga(Toho)
+06 Jun Misugi(Japon)
+07 Jun Misugi(Musashi)
+08 Hikaru Matsuyama(Japon)
+09 Hikaru Matsuyama(Furano)
+0A Ryo Ishizaki(Nankatsu)
+0B Ryo Ishizaki(Japon)
+0C Makoto Soda(Japon)
+0D Makoto Soda(Tatsunami)
+0E Jito Hiroshi(Japon)
+0F Jito Hiroshi(Kunimi)
+10 Tachibana (Japon)
+11 Tachibana (Akita)
+12 Shun Nitta(Nankatsu)
+13 Shun Nitta(Jappn)
+14 Takeshi Sawada(Japon)
+15 Takeshi Sawada(Toho)
+16 Arthur Antunes Coimbra
+17 Santana(Flamengo)
+18 Santana(Brasil)
+19 Schneider
+1A Hermann Kaltz
+1B Franz Schuster
+1C Juan Diaz
+1D Pascal
+1E Elle Sid Pierre
+1F Louis Napoleon
+20 Ramon Victorino
+21 Hermann Kaltz(Alemania)

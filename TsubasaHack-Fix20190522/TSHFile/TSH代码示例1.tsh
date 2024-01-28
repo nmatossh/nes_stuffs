@@ -1,0 +1,14 @@
+[Game]
+Name=天使之翼2
+
+[Author]
+Name=mazong1123
+
+[Function]
+Description=(修改示例)敌方人物数值稳定,但能力极低
+
+[Code]
+38060=C9,76;
+
+
+[END]

@@ -1,0 +1,18 @@
+﻿00 Tsubasa y Schneider
+01 Pierr Babington
+02 Misaki
+03 Tachibana
+04 Makoto Soda
+05 Diaz
+06 Ishizaki
+07 Hyuga
+08 Anonimo
+09 Amaral
+0A Santana
+0B Nitta
+0C Wakabayashi (00)
+0D Muller (01)
+0E Wakashimazu (02)
+0F Renato (03)
+10 Anonimo (04)
+11 Nakanishi (05)

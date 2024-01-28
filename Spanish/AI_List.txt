@@ -1,0 +1,31 @@
+﻿00 IA (Standard)
+01 IA (Recuperacion y Ofensiva) Tachibana
+02 IA (Micro-Ataque) Da Silva
+03 IA (??)
+04 IA (Agresivo) Zagalo
+05 IA (Cool Smart)Kaltz ´´Alemania´´
+06 IA (Estilo) Nei
+07 IA (estilo) Victorino
+08 IA (Ofensivo 1-2) Satrustegi Dirceo
+09 IA (Impredecible) Santamaria
+0A IA Diaz 2º(Enojado)
+0B IA (estilo) Jito, Soda ´´secundaria´´
+0C IA (Activa Avalancha) Matsuyama
+0D IA Jetorio (Flamengo)
+0E IA Hyuga Toho (2 Tiros)
+0F IA (Ofensivo) Capellman
+10 IA (Ofensiva) Kim, Sya
+11 IA Hyuga Japon (2 Tiros)
+12 IA (Siempre Tira) Ton, Jet, Brasil
+13 IA (estilo) España Mexico
+14 IA Schester, Argentina
+15 IA (Estilo) Pierre, Napoleon
+16 IA (Estilo) Islas
+17 IA (estilo) Hollanda
+18 IA Diaz 1º(Se Enoja)
+19 IA (Estilo) Pascal
+1A IA Schneider 1º
+1B IA Schneider 2º(Ofensiva Total)
+1C IA (Estilo) Coimbra
+1D IA Misugi ´´Musashi
+1E IA oculta(aleatoria)

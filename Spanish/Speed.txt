@@ -1,0 +1,32 @@
+﻿00   Anonimo
+01   Amaral
+02   Nitta+Mitsuru Sano
+03   Ozora Tsubasa+Misaki Taro
+04   Babington
+05   Hajime Taki
+06   Gil y otros delanteros
+07   Tachibana
+08   Hanji Urabe
+09   Makoto Soda、 Hikaru Matsuyama
+0A   Schneider
+0B   Dirceu+Jetorio  
+0C   Akita Tachibana
+0D   ??
+0E   Kojiro Hyuga( VS )
+0F   Victorino  
+10   Japon( VS )
+11   Tachibana Japon ( VS )
+12   ??
+13   Sya+Kim
+14   Match
+15   Islas
+16   Avalancha de Matsuyama
+17   Dias outbreak
+18   Schneider outbreak
+19   Holanda Anonimos
+1A   Kaltz (ALE)
+1B   Coimbra
+1C   Santamaria (BR.)
+1D   Jun Misugi
+1E   ??
+1F   ??

@@ -1,0 +1,192 @@
+﻿01 Ozora Tsubasa
+02 Renato
+03 Lima
+04 Marini
+05 Amaral
+06 Dottil
+07 Batista
+08 Tahamata
+09 Babington
+0A Gil
+0B Platon
+0C Urabe Hanji
+0D Kishida Takeshi
+0E Nakayama Masao
+0F Morisaki Yuzo
+10 Takasugi Shingo
+11 Misaki Taro
+12 Izawa Mamoru
+13 Taki Hajime
+14 Ishizaki Ryo
+15 Nitta Shun
+16 Kisugi Teppei
+17 Masao Tachibana
+18 Kazuo Tachibana
+19 Sano Mitsuru
+1A Kojiro Hyuga
+1B Soda Makoto
+1C Jitou
+1D Matsuyama Hikaru
+1E Sorimachi Kazuki
+1F Sawada Takeshi
+20 Misugi Jun
+21 Genzo Wakabayashi
+22 Ken Wakashimazu
+23 Satrustegi
+24 Riberio
+25 Da·Silva
+26 Claudio Meão
+27 Toninho
+28 Nei
+29 Zagalo
+2A Dirseu
+2B Carlos Santana
+2C Santamaria
+2D Jetorio
+2E Jito Hiroshi
+2F Sano Mitsuru
+30 Masao Tachibana
+31 Kazuo Tachibana
+32 Soda Makoto
+33 Nakanishi Taichi
+34 Misugi Jun
+35 Matsuyama Hikaru
+36 Kojiro Hyuga
+37 Sorimachi Kazuki
+38 Sawada Takeshi
+39 Ken Wakashimazu
+3A Rampion
+3B Ramon Victorino
+3C Da·Silva
+3D Theodor Capellmann
+3E Hermann Kaltz
+3F Mezza
+40 Genzo Wakabayashi
+41 Kojiro Hyuga
+42 Nitta Shun(Japon)
+43 Sano Mitsuru(Japon)
+44 Misugi Jun(Japon)
+45 Misaki Taro(Japon)
+46 Masao Tachibana(Japon)
+47 Kazuo Tachibana(Japon)
+48 Jito Hiroshi(Japon)
+49 Ishizaki Ryo(Japon)
+4A Soda Makoto(Japon)
+4B Matsuyama Hikaru(Japon)
+4C Ken Wakashimazu(Japon)
+4D Hanne Lee
+4E Bankun Lee
+4F Sya
+50 Kim
+51 Mach
+52 Jaisch
+53 Lorimer
+54 Steve Robson
+55 Beraev
+56 Rashin
+57 Lui Napoleon
+58 Elle Sid Pierre
+59 España
+5A Rampion(Italia)
+5B Gino Hernandez
+5C Islas
+5D Libuta
+5E Alan Pascal
+5F Satrustegi(Argentina)
+60 Juan Diaz
+61 Babington
+62 Luis Galvan
+63 Karl Heinz Schneider
+64 Manfred Margus
+65 Hermann Kaltz
+66 Mezza
+67 Franz Schester
+68 Theodor Capellmann
+69 Deuter Muller
+6A Carlos Santana(BRA.)
+6B Zagalo(BRA.)
+6C Riberio(BRA.)
+6D Nei(BRA.)
+6E Santamaria(BRA.)
+6F Toninho(BRA.)
+70 Dottil(BRA.)
+71 Amaral(BRA.)
+72 Dirceu
+73 Jetorio
+74 Elzo Gertize
+75 Arthur A. Coimbra
+76 Ozora Tsubasa(Japon)
+77 Yuzo(Japon)
+78 TakasugiJapon)
+79 Misaki(Japon)
+7A Izawa(Japon)
+7B Taki(Japon)
+7C Ishizaki(Japon)
+7D Nitta(Japon)
+7E Kisugi(Japon)
+7F Fluminense 1
+80 Corinthians 2
+81 Gremio 3
+82 Palmeiras 4
+83 Santos 5
+84 Flamengo 6
+85 Kumini 7
+86 Akita 8
+87 Tatsune 9
+88 Musashi 10
+89 Furano 11
+8A Toho 12
+8B AS Roma 13
+8C Uruguay 14
+8D Hamburgo SV 15
+8E Japon 16
+8F Siria 17
+90 China 18
+91 Iran 19
+92 Corea Del Norte 20
+93 Arabia Saudita 21
+94 Corea Del Sur 22
+95 Vasco Da Gama 23
+96 Polonia 24
+97 Inglaterra 25
+98 Rusia 26
+99 Francia 27
+9A Mexico 28
+9B Italia 29
+9C Holanda 30
+9D Argentina 31
+9E Alemania 32
+9F GK Fluminense 1
+A0 GK Corinthians 2
+A1 GK Gremio 3
+A2 GK Palmeiras 4
+A3 GK Santos 5
+A4 GK Flamengo 6
+A5 GK Kumini 7
+A6 GK Akita 8
+A7 GK Tatsune 9
+A8 GK Musashi 10
+A9 GK Furano 11
+AA GK Toho 12
+AB GK AS Roma 13
+AC GK Uruguay 14
+AD GK Hamburgo SV 15
+AE GK Japon 16
+AF GK Siria 17
+B0 GK China 18
+B1 GK Iran 19
+B2 GK Corea Del Norte 20
+B3 GK Arabia Saudita 21
+B4 GK Corea Del Sur 22
+B5 GK Vasco Da Gama 23
+B6 GK Polonia 24
+B7 GK Inglaterra 25
+B8 GK Rusia 26
+B9 GK Francia 27
+BA GK Mexico 28
+BB GK Italia 29
+BC GK Holanda 30
+BD GK Argentina 31
+BE GK Alemania 32
+BF GK Brasil 33
+C0 GK Brasil 34

@@ -1,0 +1,37 @@
+﻿01 Drive pass(Tsubasa)
+02 Kamisori Pass(Soda)
+03 T-Spin Pass(Mezza)
+01 Sombrero(Tsubasa)
+02 Dribling Fuerte
+03 Dribling(Nei)
+04 Dribling(Santana)
+05 Dribling(Islas)
+06 Dribling(Kaltz)
+81 Combi. Dorada(Argentina)
+82 Combi. Toho(Toho)  
+83 Combi. Tachibana(Akita)
+84 Ataque Eiffel(Francia)
+01 Combi. Dorada(Japon) 
+02 Combi. Toho(Japon) 
+03 Combi. Tachibana(Japon)
+81 Face Block(Ishizaki)
+82 Huracan en el Cielo Block
+83 Power Block
+81 Huracan en el Cielo Tackle
+82 Kamisori TacKle(Soda)
+83 Power Tackle(Jito)
+84 Tiger Tackle(Hyuga)
+81 Huracan en el cielo corta pase
+必杀射门
+必杀传球
+必杀过人
+必杀二过一
+必杀挡球
+必杀铲球
+必杀断球
+Pase (No)
+Dribling (No)
+1-2 (No)
+Bloque (No)
+Barrida (No)
+Corta Pase (No)

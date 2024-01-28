@@ -1,0 +1,157 @@
+﻿00 Lima,Batista,Nakayama
+01 Ozora Tsubasa
+02 Misaki Taro
+03 Nitta Shun
+04 Kisugi,Gil
+05 Platton(Hajime Taki)
+06 Tahamata
+07 Babington
+08 Amaral
+09 Dottil
+0A Urabe
+0B Marini(Kishida)
+0C Takasugi Shingo
+0D Izawa
+0E Ishizaki
+0F Hermanos Tachibana
+10 Sano
+11 Hyuga
+12 Soda
+13 Hiroshi
+14 Matsuyama
+15 Sorimachi
+16 Sawada
+17 Misugi
+18 Fluminense 1
+19 Fluminense 2
+1A Corinthians 1
+1B Corinthians 2
+1C Satrustegi
+1D Riberio
+1E Gremio 1
+1F Gremio 2
+20 Da Silva
+21 Palmeiras 1
+22 Palmeiras 2
+23 Toninho
+24 Nei
+25 Santos 1
+26 Santos 2
+27 Zagalo
+28 Dirceu
+29 Flamengo 1
+2A Flamengo 2
+2B Santana
+2C Santamaria
+2D Jetorio
+2E Kumini 1
+2F Kumini 2
+30 Jito
+31 Sano
+32 Akita 1 
+33 Akita 2
+34 Hermanos Tachibana
+35 Tatsune 1
+36 Tatsune 2
+37 Soda
+38 Musashi 1
+39 Musashi 2
+3A Misugi
+3B Furano 1
+3C Furano 2
+3D Matsuyama
+3E Toho 1
+3F Toho 2
+40 Hyuga
+41 Sorimachi
+42 Sawada
+43 AS Roma 1
+44 AS Roma 2
+45 Rampion
+46 Uruguay 1
+47 Uruguay 2
+48 Victorino
+49 Da Silva
+4A Hamburgo SV 1
+4B Hamburgo SV 2
+4C Kapellman
+4D Kaltz
+4E Metzer
+4F Hyuga
+50 Nitta
+51 Sano
+52 Misaki
+53 Misugi
+54 Hermanos Tachibana
+55 Jito
+56 Ishisaki
+57 Soda
+58 Matsuyama
+59 Siria 1
+5A Siria 2
+5B China 1
+5C China 2
+5D HermanosLee
+5E Iran 1
+5F Iran 2
+60 Corea Del Norte 1
+61 Corea Del Norte 2
+62 Arabia Saudita 1
+63 Arabia Saudita 2
+64 Corea Del Sur 1
+65 Corea Del Sur 2
+66 Sya
+67 Kim
+68 Vasco Da Gama
+69 Polonia 1
+6A Polonia 2
+6B Maher
+6C Inglaterra 1
+6D Inglaterra 2
+6E Robson
+6F Lorimer
+70 Rusia 1
+71 Rusia 2
+72 Belaef
+73 Francia 1
+74 Francia 2
+75 Napoleon
+76 Pierre
+77 Mexico 1
+78 Mexico 2
+79 Espada
+7A Italia 1
+7B Italia 2
+7C Rampion
+7D Holanda 1
+7E Holanda 2
+7F Islas
+80 Ribta
+81 Argentina
+82 Pascal
+83 Satrustegui
+84 Diaz
+85 Babington
+86 Galvan
+87 Alemania
+88 Schneider
+89 Margus
+8A Kaltz
+8B Metzer
+8C Schester
+8D Kapellman
+8E Santana
+8F Zagalo
+90 Riveiro
+91 Nei
+92 Santamaria
+93 Toninho
+94 Dottil
+95 Amaral
+96 Dirceu
+97 Jetorio
+98 Coimbra
+99 Avalancha Matsuyama
+9A Diaz (Enojado)
+9B Schneider (Enojado)
+9C Avalancha Furano

@@ -1,0 +1,25 @@
+﻿01 Corinthians
+02 Gremio
+03 Palmeiras
+04 Santos
+05 Flamengo
+06 Kunimi
+07 Akita
+08 Tatsunami
+09 Musashi (2º Tiempo)
+10 Furano
+11 Toho
+12 Roma
+13 Uruguay
+14 Hamburgo
+15 China
+16 Corea
+17 Polonia
+18 Inglaterra
+19 Rusia
+20 Francia
+21 Mexico
+22 Italia
+23 Holanda
+24 Argentina
+25 Alemania

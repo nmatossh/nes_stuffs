@@ -1,0 +1,15 @@
+[Game]
+Name=天使之翼2
+
+[Author]
+Name=mazong1123
+
+[Function]
+Description=(修改示例)取消翼和日向的双人射门--旋转虎射的限制
+
+[Code]
+38D31=4C,B0,FE;
+3FEC0=48,A9,80,8D,49,04,68,2C,49,04,4C,24,8D;
+
+
+[END]

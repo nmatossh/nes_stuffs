@@ -1,0 +1,189 @@
+﻿00 Anonimo(BUG)
+01 Ozora Tsubasa
+02 Renato
+03 Lima
+04 Marini
+05 Amaral
+06 Dottil
+07 Batista
+08 Tahamata
+09 Babington
+0A Gil
+0B Platon
+0C Urabe Hanji
+0D Kishida Takeshi
+0E Nakayama Masao
+0F Morisaki Yuzo
+10 Takasugi Shingo
+11 Misaki Taro
+12 Izawa Mamoru
+13 Taki Hajime
+14 Ishizaki Ryo
+15 Nitta Shun
+16 Kisugi Teppei
+17 Masao Tachibana
+18 Kazuo Tachibana
+19 Sano Mitsuru
+1A Kojiro Hyuga
+1B Soda Makoto
+1C Jitou
+1D Matsuyama Hikaru
+1E Sorimachi Kazuki
+1F Sawada Takeshi
+20 Misugi Jun
+21 Genzo Wakabayashi
+22 Ken Wakashimazu
+23 Satrustegi
+24 Riberio
+25 Da·Silva
+26 Claudio Meão
+27 Toninho
+28 Nei
+29 Zagalo
+2A Dirseu
+2B Carlos Santana
+2C Santamaria
+2D Jetorio
+2E Jito Hiroshi
+2F Sano Mitsuru
+30 Masao Tachibana
+31 Kazuo Tachibana
+32 Soda Makoto
+33 Nakanishi Taichi
+34 Misugi Jun
+35 Matsuyama Hikaru
+36 Kojiro Hyuga
+37 Sorimachi Kazuki
+38 Sawada Takeshi
+39 Ken Wakashimazu
+3A Rampion
+3B Ramon Victorino
+3C Da·Silva
+3D Theodor Capellmann
+3E Hermann Kaltz
+3F Mezza
+40 Genzo Wakabayashi
+41 Kojiro Hyuga
+42 Nitta Shun(Japon)
+43 Sano Mitsuru(Japon)
+44 Misugi Jun(Japon)
+45 Misaki Taro(Japon)
+46 Masao Tachibana(Japon)
+47 Kazuo Tachibana(Japon)
+48 Jito Hiroshi(Japon)
+49 Ishizaki Ryo(Japon)
+4A Soda Makoto(Japon)
+4B Matsuyama Hikaru(Japon)
+4C Ken Wakashimazu(Japon)
+4D Hanne Lee
+4E Bankun Lee
+4F Sya
+50 Kim
+51 Mach
+52 Jaisch
+53 Lorimer
+54 Steve Robson
+55 Beraev
+56 Rashin
+57 Lui Napoleon
+58 Elle Sid Pierre
+59 España
+5A Rampion(Italia)
+5B Gino Hernandez
+5C Islas
+5D Libuta
+5E Alan Pascal
+5F Satrustegi(Argentina)
+60 Juan Diaz
+61 Babington
+62 Luis Galvan
+63 Karl Heinz Schneider
+64 Manfred Margus
+65 Hermann Kaltz
+66 Mezza
+67 Franz Schester
+68 Theodor Capellmann
+69 Deuter Muller
+6A Carlos Santana(BRA.)
+6B Zagalo(BRA.)
+6C Riberio(BRA.)
+6D Nei(BRA.)
+6E Santamaria(BRA.)
+6F Toninho(BRA.)
+70 Dottil(BRA.)
+71 Amaral(BRA.)
+72 Dirceu
+73 Jetorio
+74 Elzo Gertize
+75 Arthur A. Coimbra
+76
+77
+78
+79
+7A
+7B
+7C
+7D
+7E
+7F
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+8A
+8B
+8C
+8D
+8E
+8F
+90
+91
+92
+93
+94
+95
+96
+97 岬
+98 石奇
+99
+9A
+9B 新田
+9C 立花
+9D
+9E 日向 
+9F 早田 
+A0 次藤
+A1 松山
+A2 泽田 
+A3 三杉
+A4
+A5
+A6
+A7
+A8
+A9 弗拉门戈桑塔纳
+AA 国见次藤
+AB 秋田立花
+AC
+AD 立波早田
+AE 武藏三杉
+AF 富良松山
+B0 东邦日向
+B1 东邦泽田
+B2 拉蒙-维多利诺 
+B3
+B4 拿破仑
+B5 比尔
+B6 帕斯卡
+B7 迪亚斯
+B8 施耐德
+B9 卡鲁茨(德国)
+BA 谢斯塔
+BB 巴西桑塔纳
+BC 库因
