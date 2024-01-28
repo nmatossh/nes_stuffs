@@ -1,2 +1,2 @@
-# nes_stuffs
+# NES Stuffs
 Nintendo Entertainment System Hack Roms &amp; Templates
